@@ -7,6 +7,6 @@
 <title>Hello World - JSP tutorial</title>
 </head>
 <body>
-	<%= "Hello AWS World!" %>
+	<%= "Hello AWS World on AWS!" %>
 </body>
 </html>
